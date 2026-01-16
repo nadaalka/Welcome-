@@ -11,6 +11,6 @@ For bold two starts **Nada**
 Three stars make bold and italic ***Nada***
 
 Shopping list
--Potatos
--Mozalla chees
--beef
+- Potatos
+- Mozalla chees
+- beef
