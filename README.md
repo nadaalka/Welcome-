@@ -17,4 +17,4 @@ Shopping list
 
 > To be or not to be
 
-To make link do this [Hardest subject].(https://mathsgrinds.ie)
+To make link do this [Hardest subject](https://mathsgrinds.ie)
