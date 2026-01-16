@@ -18,3 +18,4 @@ Shopping list
 > To be or not to be
 
 To make link do this [Hardest subject](https://mathsgrinds.ie)
+![Troll](https://cdn.mos.cms.futurecdn.net/VVhhqUfNTLEZMwutaj9uKb-1200-80.png.webp)
